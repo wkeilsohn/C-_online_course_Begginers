@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554650404 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/data_classes/src/Cat.cpp
+	"Cat.h"
+	<iostream>
+
+1554650418 /home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/data_classes/include/Cat.h
+
+1554650360 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/data_classes/main.cpp
+	<iostream>
+	"Cat.h"
+
