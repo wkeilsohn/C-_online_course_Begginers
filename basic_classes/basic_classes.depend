@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554647028 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/basic_classes/main.cpp
+	<iostream>
+	"cat.h"
+
+1554646779 /home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/basic_classes/cat.h
+
