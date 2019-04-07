@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554654404 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/this_basics/main.cpp
+	<iostream>
+	"Person.h"
+
+1554654350 /home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/this_basics/include/Person.h
+	<iostream>
+
+1554655772 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/this_basics/src/Person.cpp
+	"Person.h"
+	<sstream>
+	<iostream>
+
