@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554569868 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/numbers/main.cpp
+	<iostream>
+	<iomanip>
+
