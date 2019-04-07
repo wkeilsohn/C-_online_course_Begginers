@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554651020 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/getter_setter/main.cpp
+	<iostream>
+	"person.h"
+
+1554651119 /home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/getter_setter/include/person.h
+	<iostream>
+
+1554651291 source:/home/william/Documents/C++_Scripts/Complete_Beginer_Tutorial/getter_setter/src/person.cpp
+	"person.h"
+	<iostream>
+
